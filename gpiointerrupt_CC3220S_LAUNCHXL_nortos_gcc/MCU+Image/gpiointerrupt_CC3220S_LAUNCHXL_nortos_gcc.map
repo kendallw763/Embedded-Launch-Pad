@@ -1,0 +1,1818 @@
+Archive member included to satisfy reference by file (symbol)
+
+/Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(GPIO.c.obj)
+                              ./gpiointerrupt.o (GPIO_setCallback)
+/Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(GPIOCC32XX.c.obj)
+                              ./gpiointerrupt.o (GPIO_enableInt)
+/Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX.c.obj)
+                              ./syscfg/ti_drivers_config.o (Power_init)
+/Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX_gcc.asm.obj)
+                              /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX.c.obj) (PowerCC32XX_enterLPDS)
+/Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(Timer.c.obj)
+                              ./gpiointerrupt.o (Timer_init)
+/Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(TimerCC32XX.c.obj)
+                              ./gpiointerrupt.o (Timer_open)
+/Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(List.c.obj)
+                              /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX.c.obj) (List_put)
+/Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(NoRTOS.c.obj)
+                              ./main_nortos.o (NoRTOS_start)
+/Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SemaphoreP_nortos.c.obj)
+                              /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(TimerCC32XX.c.obj) (SemaphoreP_constructBinary)
+/Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(ClockPSysTick_nortos.c.obj)
+                              /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SemaphoreP_nortos.c.obj) (ClockP_add)
+/Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(HwiPCC32XX_nortos.c.obj)
+                              /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(NoRTOS.c.obj) (HwiP_enable)
+/Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(PowerCC32XX_nortos.c.obj)
+                              ./syscfg/ti_drivers_config.o (PowerCC32XX_initPolicy)
+/Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(startup_cc32xx_gcc.c.obj)
+                              (resetISR)
+/Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SwiP_nortos.c.obj)
+                              /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(PowerCC32XX_nortos.c.obj) (SwiP_disable)
+/Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(cpu.obj)
+                              /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(HwiPCC32XX_nortos.c.obj) (CPUprimask)
+/Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(gpio.obj)
+                              /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(GPIOCC32XX.c.obj) (GPIODirModeSet)
+/Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(hwspinlock.obj)
+                              /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX.c.obj) (HwSpinLockTryAcquire)
+/Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(interrupt.obj)
+                              /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(HwiPCC32XX_nortos.c.obj) (IntMasterEnable)
+/Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(pin.obj)
+                              /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(GPIOCC32XX.c.obj) (PinModeSet)
+/Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+                              /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX.c.obj) (PRCMPeripheralClkEnable)
+/Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(spi.obj)
+                              /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX.c.obj) (SPIEnable)
+/Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(systick.obj)
+                              /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(ClockPSysTick_nortos.c.obj) (SysTickEnable)
+/Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(timer.obj)
+                              /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(TimerCC32XX.c.obj) (TimerEnable)
+/Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(utils.obj)
+                              /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj) (UtilsDelay)
+/Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(flash.obj)
+                              /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj) (FlashDisable)
+/Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_aeabi_ldivmod.o)
+                              /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX.c.obj) (__aeabi_ldivmod)
+/Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_aeabi_uldivmod.o)
+                              /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX.c.obj) (__aeabi_uldivmod)
+/Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_udivmoddi4.o)
+                              /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_aeabi_ldivmod.o) (__udivmoddi4)
+/Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_dvmd_tls.o)
+                              /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_aeabi_ldivmod.o) (__aeabi_ldiv0)
+/Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-malloc.o)
+                              /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SemaphoreP_nortos.c.obj) (malloc)
+/Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-memcpy-stub.o)
+                              /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(startup_cc32xx_gcc.c.obj) (memcpy)
+/Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-memset.o)
+                              /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(startup_cc32xx_gcc.c.obj) (memset)
+/Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-nano-freer.o)
+                              /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-malloc.o) (_free_r)
+/Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-nano-mallocr.o)
+                              /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-malloc.o) (_malloc_r)
+/Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-sbrkr.o)
+                              /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
+/Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-impure.o)
+                              /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-malloc.o) (_impure_ptr)
+/Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-mlock.o)
+                              /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-nano-freer.o) (__malloc_lock)
+/Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-reent.o)
+                              /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-sbrkr.o) (errno)
+/Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-lock.o)
+                              /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-mlock.o) (__retarget_lock_acquire_recursive)
+/Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libnosys.a(sbrk.o)
+                              /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-sbrkr.o) (_sbrk)
+
+Allocating common symbols
+Common symbol       size              file
+
+__lock___atexit_recursive_mutex
+                    0x1               /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-lock.o)
+PowerCC32XX_contextSave
+                    0x12c             /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX.c.obj)
+__lock___arc4random_mutex
+                    0x1               /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-lock.o)
+errno               0x4               /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-reent.o)
+__lock___env_recursive_mutex
+                    0x1               /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-lock.o)
+__lock___sinit_recursive_mutex
+                    0x1               /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-lock.o)
+ClockP_ctrl         0x10              /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(ClockPSysTick_nortos.c.obj)
+__lock___malloc_recursive_mutex
+                    0x1               /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-lock.o)
+gpioCallbackFunctions
+                    0x84              ./syscfg/ti_drivers_config.o
+timerCC32XXObjects  0x84              ./syscfg/ti_drivers_config.o
+__lock___at_quick_exit_mutex
+                    0x1               /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-lock.o)
+__lock___dd_hash_mutex
+                    0x1               /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-lock.o)
+__lock___tz_mutex   0x1               /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-lock.o)
+__lock___sfp_recursive_mutex
+                    0x1               /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-lock.o)
+gpioUserArgs        0x84              ./syscfg/ti_drivers_config.o
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 ./gpiointerrupt.o
+ .data          0x0000000000000000        0x0 ./gpiointerrupt.o
+ .bss           0x0000000000000000        0x0 ./gpiointerrupt.o
+ .text.timerCallback
+                0x0000000000000000        0x4 ./gpiointerrupt.o
+ .text.initTimer
+                0x0000000000000000       0x40 ./gpiointerrupt.o
+ .text          0x0000000000000000        0x0 ./syscfg/ti_drivers_config.o
+ .data          0x0000000000000000        0x0 ./syscfg/ti_drivers_config.o
+ .bss           0x0000000000000000        0x0 ./syscfg/ti_drivers_config.o
+ .rodata.CONFIG_GPIO_BUTTON_0_CONST
+                0x0000000000000000        0x1 ./syscfg/ti_drivers_config.o
+ .rodata.CONFIG_GPIO_BUTTON_1_CONST
+                0x0000000000000000        0x1 ./syscfg/ti_drivers_config.o
+ .rodata.CONFIG_GPIO_LED_0_CONST
+                0x0000000000000000        0x1 ./syscfg/ti_drivers_config.o
+ .rodata.CONFIG_GPIO_LED_1_CONST
+                0x0000000000000000        0x1 ./syscfg/ti_drivers_config.o
+ .rodata.CONFIG_TIMER_0_CONST
+                0x0000000000000000        0x1 ./syscfg/ti_drivers_config.o
+ .rodata.GPIO_pinLowerBound
+                0x0000000000000000        0x1 ./syscfg/ti_drivers_config.o
+ .rodata.Timer_config
+                0x0000000000000000        0x8 ./syscfg/ti_drivers_config.o
+ .rodata.Timer_count
+                0x0000000000000000        0x1 ./syscfg/ti_drivers_config.o
+ .rodata.timerCC32XXHWAttrs
+                0x0000000000000000       0x10 ./syscfg/ti_drivers_config.o
+ .text          0x0000000000000000        0x0 ./main_nortos.o
+ .data          0x0000000000000000        0x0 ./main_nortos.o
+ .bss           0x0000000000000000        0x0 ./main_nortos.o
+ .text          0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(GPIO.c.obj)
+ .data          0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(GPIO.c.obj)
+ .bss           0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(GPIO.c.obj)
+ .text.GPIO_getCallback
+                0x0000000000000000       0x10 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(GPIO.c.obj)
+ .text.GPIO_setUserArg
+                0x0000000000000000       0x14 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(GPIO.c.obj)
+ .text.GPIO_getUserArg
+                0x0000000000000000       0x10 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(GPIO.c.obj)
+ .text          0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(GPIOCC32XX.c.obj)
+ .data          0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(GPIOCC32XX.c.obj)
+ .bss           0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(GPIOCC32XX.c.obj)
+ .text.GPIO_clearInt
+                0x0000000000000000       0x1c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(GPIOCC32XX.c.obj)
+ .text.GPIO_disableInt
+                0x0000000000000000       0x44 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(GPIOCC32XX.c.obj)
+ .text.GPIO_getConfig
+                0x0000000000000000       0x10 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(GPIOCC32XX.c.obj)
+ .text.GPIO_read
+                0x0000000000000000       0x28 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(GPIOCC32XX.c.obj)
+ .text          0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX.c.obj)
+ .data          0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX.c.obj)
+ .bss           0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX.c.obj)
+ .text.Power_getDependencyCount
+                0x0000000000000000       0x18 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX.c.obj)
+ .text.Power_getTransitionState
+                0x0000000000000000        0xc /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX.c.obj)
+ .text.Power_releaseConstraint
+                0x0000000000000000       0x4c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX.c.obj)
+ .text.Power_releaseDependency
+                0x0000000000000000       0x54 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX.c.obj)
+ .text.Power_setConstraint
+                0x0000000000000000       0x38 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX.c.obj)
+ .text.Power_setPolicy
+                0x0000000000000000        0xc /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX.c.obj)
+ .text.Power_unregisterNotify
+                0x0000000000000000       0x20 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX.c.obj)
+ .text.PowerCC32XX_configureWakeup
+                0x0000000000000000       0x80 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX.c.obj)
+ .text.PowerCC32XX_disableIORetention
+                0x0000000000000000        0x4 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX.c.obj)
+ .text.PowerCC32XX_getParkState
+                0x0000000000000000       0x38 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX.c.obj)
+ .text.PowerCC32XX_getWakeup
+                0x0000000000000000       0x1c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX.c.obj)
+ .text.PowerCC32XX_parkPin
+                0x0000000000000000       0x38 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX.c.obj)
+ .text.PowerCC32XX_restoreParkedPin
+                0x0000000000000000       0x28 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX.c.obj)
+ .text.PowerCC32XX_restoreParkState
+                0x0000000000000000       0x30 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX.c.obj)
+ .text.PowerCC32XX_shutdownSSPI
+                0x0000000000000000       0xd8 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX.c.obj)
+ .text.Power_shutdown
+                0x0000000000000000       0xa8 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX.c.obj)
+ .text.PowerCC32XX_reset
+                0x0000000000000000       0x20 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX.c.obj)
+ .data          0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX_gcc.asm.obj)
+ .bss           0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX_gcc.asm.obj)
+ .text          0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(Timer.c.obj)
+ .data          0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(Timer.c.obj)
+ .bss           0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(Timer.c.obj)
+ .text.Timer_init
+                0x0000000000000000        0x4 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(Timer.c.obj)
+ .text.Timer_Params_init
+                0x0000000000000000       0x10 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(Timer.c.obj)
+ .text.Timer_setPeriod
+                0x0000000000000000       0x68 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(Timer.c.obj)
+ .text.Timer_start
+                0x0000000000000000       0x48 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(Timer.c.obj)
+ .text.Timer_stop
+                0x0000000000000000       0x44 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(Timer.c.obj)
+ .rodata.defaultParams
+                0x0000000000000000        0xc /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(Timer.c.obj)
+ .debug_info    0x0000000000000000     0x101d /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(Timer.c.obj)
+ .debug_abbrev  0x0000000000000000      0x303 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(Timer.c.obj)
+ .debug_loc     0x0000000000000000      0x1fe /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(Timer.c.obj)
+ .debug_aranges
+                0x0000000000000000       0x40 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(Timer.c.obj)
+ .debug_ranges  0x0000000000000000       0x30 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(Timer.c.obj)
+ .debug_line    0x0000000000000000      0x798 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(Timer.c.obj)
+ .debug_str     0x0000000000000000      0xaf9 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(Timer.c.obj)
+ .comment       0x0000000000000000       0x7a /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(Timer.c.obj)
+ .debug_frame   0x0000000000000000       0xa4 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(Timer.c.obj)
+ .ARM.attributes
+                0x0000000000000000       0x2e /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(Timer.c.obj)
+ .text          0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(TimerCC32XX.c.obj)
+ .data          0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(TimerCC32XX.c.obj)
+ .bss           0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(TimerCC32XX.c.obj)
+ .text.TimerCC32XX_hwiIntFunction
+                0x0000000000000000       0x38 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(TimerCC32XX.c.obj)
+ .text.postNotifyFxn
+                0x0000000000000000       0x58 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(TimerCC32XX.c.obj)
+ .text.TimerCC32XX_allocateTimerResource
+                0x0000000000000000       0x78 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(TimerCC32XX.c.obj)
+ .text.Timer_close
+                0x0000000000000000       0xb4 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(TimerCC32XX.c.obj)
+ .text.Timer_control
+                0x0000000000000000        0x8 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(TimerCC32XX.c.obj)
+ .text.TimerCC32XX_freeTimerResource
+                0x0000000000000000       0x7c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(TimerCC32XX.c.obj)
+ .text.Timer_getCount
+                0x0000000000000000       0x18 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(TimerCC32XX.c.obj)
+ .text.Timer_open
+                0x0000000000000000      0x284 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(TimerCC32XX.c.obj)
+ .text.TimerSupport_timerDisable
+                0x0000000000000000       0x28 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(TimerCC32XX.c.obj)
+ .text.TimerSupport_timerEnable
+                0x0000000000000000       0x50 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(TimerCC32XX.c.obj)
+ .text.TimerSupport_timerFullWidth
+                0x0000000000000000       0x10 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(TimerCC32XX.c.obj)
+ .text.TimerSupport_timerLoad
+                0x0000000000000000       0x70 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(TimerCC32XX.c.obj)
+ .bss.timerState
+                0x0000000000000000        0x4 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(TimerCC32XX.c.obj)
+ .rodata.defaultParams
+                0x0000000000000000        0xc /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(TimerCC32XX.c.obj)
+ .debug_info    0x0000000000000000     0x126b /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(TimerCC32XX.c.obj)
+ .debug_abbrev  0x0000000000000000      0x458 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(TimerCC32XX.c.obj)
+ .debug_loc     0x0000000000000000      0xbbb /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(TimerCC32XX.c.obj)
+ .debug_aranges
+                0x0000000000000000       0x78 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(TimerCC32XX.c.obj)
+ .debug_ranges  0x0000000000000000      0x198 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(TimerCC32XX.c.obj)
+ .debug_line    0x0000000000000000      0xdae /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(TimerCC32XX.c.obj)
+ .debug_str     0x0000000000000000      0xa4d /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(TimerCC32XX.c.obj)
+ .comment       0x0000000000000000       0x7a /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(TimerCC32XX.c.obj)
+ .debug_frame   0x0000000000000000      0x1b8 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(TimerCC32XX.c.obj)
+ .ARM.attributes
+                0x0000000000000000       0x2e /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(TimerCC32XX.c.obj)
+ .text          0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(List.c.obj)
+ .data          0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(List.c.obj)
+ .bss           0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(List.c.obj)
+ .text.List_clearList
+                0x0000000000000000       0x18 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(List.c.obj)
+ .text.List_get
+                0x0000000000000000       0x28 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(List.c.obj)
+ .text.List_insert
+                0x0000000000000000       0x30 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(List.c.obj)
+ .text.List_putHead
+                0x0000000000000000       0x2c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(List.c.obj)
+ .text.List_remove
+                0x0000000000000000       0x30 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(List.c.obj)
+ .text          0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(NoRTOS.c.obj)
+ .data          0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(NoRTOS.c.obj)
+ .bss           0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(NoRTOS.c.obj)
+ .text.NoRTOS_getConfig
+                0x0000000000000000       0x20 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(NoRTOS.c.obj)
+ .text.NoRTOS_setConfig
+                0x0000000000000000       0x28 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(NoRTOS.c.obj)
+ .text          0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SemaphoreP_nortos.c.obj)
+ .data          0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SemaphoreP_nortos.c.obj)
+ .bss           0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SemaphoreP_nortos.c.obj)
+ .text.SemaphoreP_construct
+                0x0000000000000000       0x60 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SemaphoreP_nortos.c.obj)
+ .text.SemaphoreP_constructBinary
+                0x0000000000000000       0x3c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SemaphoreP_nortos.c.obj)
+ .text.SemaphoreP_create
+                0x0000000000000000       0x64 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SemaphoreP_nortos.c.obj)
+ .text.SemaphoreP_createBinaryCallback
+                0x0000000000000000       0x3c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SemaphoreP_nortos.c.obj)
+ .text.SemaphoreP_destruct
+                0x0000000000000000        0x4 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SemaphoreP_nortos.c.obj)
+ .text.SemaphoreP_Params_init
+                0x0000000000000000       0x14 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SemaphoreP_nortos.c.obj)
+ .text.SemaphoreP_staticObjectSize
+                0x0000000000000000        0x4 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SemaphoreP_nortos.c.obj)
+ .text          0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(ClockPSysTick_nortos.c.obj)
+ .data          0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(ClockPSysTick_nortos.c.obj)
+ .bss           0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(ClockPSysTick_nortos.c.obj)
+ .text.ClockP_delete
+                0x0000000000000000       0x48 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(ClockPSysTick_nortos.c.obj)
+ .text.ClockP_getSystemTickPeriod
+                0x0000000000000000        0xc /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(ClockPSysTick_nortos.c.obj)
+ .text.ClockP_getTimeout
+                0x0000000000000000       0x14 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(ClockPSysTick_nortos.c.obj)
+ .text.ClockP_Params_init
+                0x0000000000000000        0xc /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(ClockPSysTick_nortos.c.obj)
+ .text.ClockP_setTimeout
+                0x0000000000000000        0x4 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(ClockPSysTick_nortos.c.obj)
+ .text.ClockP_setPeriod
+                0x0000000000000000        0x4 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(ClockPSysTick_nortos.c.obj)
+ .text.ClockP_sleep
+                0x0000000000000000       0xa0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(ClockPSysTick_nortos.c.obj)
+ .text.ClockP_construct
+                0x0000000000000000       0xbc /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(ClockPSysTick_nortos.c.obj)
+ .text.ClockP_create
+                0x0000000000000000       0xb8 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(ClockPSysTick_nortos.c.obj)
+ .text.ClockP_staticObjectSize
+                0x0000000000000000        0x4 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(ClockPSysTick_nortos.c.obj)
+ .text.ClockP_stop
+                0x0000000000000000       0x54 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(ClockPSysTick_nortos.c.obj)
+ .text.ClockP_usleep
+                0x0000000000000000      0x16c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(ClockPSysTick_nortos.c.obj)
+ .text          0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(HwiPCC32XX_nortos.c.obj)
+ .data          0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(HwiPCC32XX_nortos.c.obj)
+ .bss           0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(HwiPCC32XX_nortos.c.obj)
+ .text.HwiP_clearInterrupt
+                0x0000000000000000        0x4 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(HwiPCC32XX_nortos.c.obj)
+ .text.HwiP_destruct
+                0x0000000000000000       0x14 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(HwiPCC32XX_nortos.c.obj)
+ .text.HwiP_delete
+                0x0000000000000000       0x1c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(HwiPCC32XX_nortos.c.obj)
+ .text.HwiP_disableInterrupt
+                0x0000000000000000        0x4 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(HwiPCC32XX_nortos.c.obj)
+ .text.HwiP_enableInterrupt
+                0x0000000000000000        0x4 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(HwiPCC32XX_nortos.c.obj)
+ .text.HwiP_interruptsEnabled
+                0x0000000000000000       0x10 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(HwiPCC32XX_nortos.c.obj)
+ .text.HwiP_construct
+                0x0000000000000000       0x8c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(HwiPCC32XX_nortos.c.obj)
+ .text.HwiP_plug
+                0x0000000000000000        0x4 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(HwiPCC32XX_nortos.c.obj)
+ .text.HwiP_setFunc
+                0x0000000000000000       0x1c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(HwiPCC32XX_nortos.c.obj)
+ .text.HwiP_inSwi
+                0x0000000000000000       0x1c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(HwiPCC32XX_nortos.c.obj)
+ .text.HwiP_setPriority
+                0x0000000000000000        0x8 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(HwiPCC32XX_nortos.c.obj)
+ .text.HwiP_staticObjectSize
+                0x0000000000000000        0x4 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(HwiPCC32XX_nortos.c.obj)
+ .bss.HwiP_key  0x0000000000000000        0x4 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(HwiPCC32XX_nortos.c.obj)
+ .text          0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(PowerCC32XX_nortos.c.obj)
+ .data          0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(PowerCC32XX_nortos.c.obj)
+ .bss           0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(PowerCC32XX_nortos.c.obj)
+ .bss.idleTime  0x0000000000000000        0x4 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(PowerCC32XX_nortos.c.obj)
+ .text          0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(startup_cc32xx_gcc.c.obj)
+ .data          0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(startup_cc32xx_gcc.c.obj)
+ .bss           0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(startup_cc32xx_gcc.c.obj)
+ .data.__dso_handle
+                0x0000000000000000        0x4 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(startup_cc32xx_gcc.c.obj)
+ .text          0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SwiP_nortos.c.obj)
+ .data          0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SwiP_nortos.c.obj)
+ .bss           0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SwiP_nortos.c.obj)
+ .text.SwiP_Params_init
+                0x0000000000000000       0x10 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SwiP_nortos.c.obj)
+ .text.SwiP_construct
+                0x0000000000000000      0x104 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SwiP_nortos.c.obj)
+ .text.SwiP_create
+                0x0000000000000000      0x120 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SwiP_nortos.c.obj)
+ .text.SwiP_destruct
+                0x0000000000000000       0x38 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SwiP_nortos.c.obj)
+ .text.SwiP_delete
+                0x0000000000000000       0x3c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SwiP_nortos.c.obj)
+ .text.SwiP_dispatch
+                0x0000000000000000       0xd4 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SwiP_nortos.c.obj)
+ .text.SwiP_handleHwi
+                0x0000000000000000       0x18 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SwiP_nortos.c.obj)
+ .text.SwiP_getTrigger
+                0x0000000000000000        0xc /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SwiP_nortos.c.obj)
+ .text.SwiP_andn
+                0x0000000000000000       0x88 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SwiP_nortos.c.obj)
+ .text.SwiP_dec
+                0x0000000000000000       0x84 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SwiP_nortos.c.obj)
+ .text.SwiP_inc
+                0x0000000000000000       0x7c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SwiP_nortos.c.obj)
+ .text.SwiP_inISR
+                0x0000000000000000        0x4 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SwiP_nortos.c.obj)
+ .text.SwiP_or  0x0000000000000000       0x80 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SwiP_nortos.c.obj)
+ .text.SwiP_post
+                0x0000000000000000       0x70 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SwiP_nortos.c.obj)
+ .text.SwiP_setPriority
+                0x0000000000000000       0x20 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SwiP_nortos.c.obj)
+ .text.SwiP_staticObjectSize
+                0x0000000000000000        0x4 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SwiP_nortos.c.obj)
+ .bss.SwiP_currentTrigger
+                0x0000000000000000        0x4 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SwiP_nortos.c.obj)
+ .bss.SwiP_hwiStruct
+                0x0000000000000000       0x1c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SwiP_nortos.c.obj)
+ .bss.SwiP_initialized
+                0x0000000000000000        0x1 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SwiP_nortos.c.obj)
+ .bss.SwiP_readyList
+                0x0000000000000000       0x20 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SwiP_nortos.c.obj)
+ .rodata.SwiP_defaultParams
+                0x0000000000000000       0x10 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SwiP_nortos.c.obj)
+ .text          0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(cpu.obj)
+ .data          0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(cpu.obj)
+ .bss           0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(cpu.obj)
+ .text.CPUprimask
+                0x0000000000000000        0xc /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(cpu.obj)
+ .text.CPUbasepriSet
+                0x0000000000000000       0x10 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(cpu.obj)
+ .text.CPUbasepriGet
+                0x0000000000000000        0xc /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(cpu.obj)
+ .text          0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(gpio.obj)
+ .data          0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(gpio.obj)
+ .bss           0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(gpio.obj)
+ .text.GPIOGetIntNumber
+                0x0000000000000000       0x70 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(gpio.obj)
+ .text.GPIODirModeGet
+                0x0000000000000000       0x3a /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(gpio.obj)
+ .text.GPIOIntTypeGet
+                0x0000000000000000       0x74 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(gpio.obj)
+ .text.GPIOIntRegister
+                0x0000000000000000       0x2a /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(gpio.obj)
+ .text.GPIOIntUnregister
+                0x0000000000000000       0x26 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(gpio.obj)
+ .text.GPIODMATriggerEnable
+                0x0000000000000000       0x78 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(gpio.obj)
+ .text.GPIODMATriggerDisable
+                0x0000000000000000       0x78 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(gpio.obj)
+ .text          0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(hwspinlock.obj)
+ .data          0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(hwspinlock.obj)
+ .bss           0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(hwspinlock.obj)
+ .rodata.HwSpinLock_RegLst
+                0x0000000000000000        0x4 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(hwspinlock.obj)
+ .text.HwSpinLockAcquire
+                0x0000000000000000       0x4c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(hwspinlock.obj)
+ .text.HwSpinLockTryAcquire
+                0x0000000000000000       0x7c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(hwspinlock.obj)
+ .text.HwSpinLockRelease
+                0x0000000000000000       0x44 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(hwspinlock.obj)
+ .text.HwSpinLockTest
+                0x0000000000000000       0x74 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(hwspinlock.obj)
+ .debug_info    0x0000000000000000      0x21f /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(hwspinlock.obj)
+ .debug_abbrev  0x0000000000000000       0xc8 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(hwspinlock.obj)
+ .debug_aranges
+                0x0000000000000000       0x38 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(hwspinlock.obj)
+ .debug_ranges  0x0000000000000000       0x28 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(hwspinlock.obj)
+ .debug_line    0x0000000000000000      0x29d /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(hwspinlock.obj)
+ .debug_str     0x0000000000000000      0x2ae /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(hwspinlock.obj)
+ .comment       0x0000000000000000       0x7a /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(hwspinlock.obj)
+ .debug_frame   0x0000000000000000       0xb0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(hwspinlock.obj)
+ .ARM.attributes
+                0x0000000000000000       0x2e /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(hwspinlock.obj)
+ .text          0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(interrupt.obj)
+ .data          0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(interrupt.obj)
+ .bss           0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(interrupt.obj)
+ .rodata.g_pulPriority
+                0x0000000000000000       0x20 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(interrupt.obj)
+ .rodata.g_pulDisRegs
+                0x0000000000000000       0x18 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(interrupt.obj)
+ .rodata.g_pulUnpendRegs
+                0x0000000000000000       0x18 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(interrupt.obj)
+ .text.IntDefaultHandler
+                0x0000000000000000        0x6 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(interrupt.obj)
+ .text.IntUnregister
+                0x0000000000000000       0x2c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(interrupt.obj)
+ .text.IntPriorityGroupingSet
+                0x0000000000000000       0x30 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(interrupt.obj)
+ .text.IntPriorityGroupingGet
+                0x0000000000000000       0x48 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(interrupt.obj)
+ .text.IntPriorityGet
+                0x0000000000000000       0x30 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(interrupt.obj)
+ .text.IntDisable
+                0x0000000000000000       0xbc /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(interrupt.obj)
+ .text.IntPendClear
+                0x0000000000000000       0x68 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(interrupt.obj)
+ .text.IntPriorityMaskSet
+                0x0000000000000000       0x16 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(interrupt.obj)
+ .text.IntPriorityMaskGet
+                0x0000000000000000        0xe /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(interrupt.obj)
+ .text          0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(pin.obj)
+ .data          0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(pin.obj)
+ .bss           0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(pin.obj)
+ .text.PinTypeUART
+                0x0000000000000000       0x24 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(pin.obj)
+ .text.PinTypeI2C
+                0x0000000000000000       0x26 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(pin.obj)
+ .text.PinTypeSPI
+                0x0000000000000000       0x24 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(pin.obj)
+ .text.PinTypeI2S
+                0x0000000000000000       0x24 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(pin.obj)
+ .text.PinTypeTimer
+                0x0000000000000000       0x24 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(pin.obj)
+ .text.PinTypeCamera
+                0x0000000000000000       0x24 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(pin.obj)
+ .text.PinTypeGPIO
+                0x0000000000000000       0x3a /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(pin.obj)
+ .text.PinTypeADC
+                0x0000000000000000       0x1e /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(pin.obj)
+ .text.PinTypeSDHost
+                0x0000000000000000       0x24 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(pin.obj)
+ .text.PinHysteresisSet
+                0x0000000000000000       0x38 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(pin.obj)
+ .text.PinFromPadGet
+                0x0000000000000000       0x3c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(pin.obj)
+ .text          0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+ .data          0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+ .bss           0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+ .text.RTCUseSet
+                0x0000000000000000       0x30 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+ .text.IsRTCUsed
+                0x0000000000000000       0x30 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+ .text.RTCU16MSecRegRead
+                0x0000000000000000       0x28 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+ .text.RTCU16MSecRegWrite
+                0x0000000000000000       0x40 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+ .text.RTCU32SecRegRead
+                0x0000000000000000       0x14 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+ .text.RTCU32SecRegWrite
+                0x0000000000000000       0x1c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+ .text.PRCMMCUReset
+                0x0000000000000000       0x28 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+ .text.PRCMPeripheralClockGet
+                0x0000000000000000       0xbc /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+ .text.PRCMI2SClockFreqSet
+                0x0000000000000000       0x60 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+ .text.PRCMSRAMRetentionDisable
+                0x0000000000000000       0x34 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+ .text.PRCMHibernateWakeupCauseGet
+                0x0000000000000000       0x30 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+ .text.PRCMHibernateIntervalSet
+                0x0000000000000000       0xac /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+ .text.PRCMHibernateEnter
+                0x0000000000000000       0x14 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+ .text.PRCMSlowClkCtrGet
+                0x0000000000000000       0x6c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+ .text.PRCMSlowClkCtrMatchSet
+                0x0000000000000000       0x40 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+ .text.PRCMSlowClkCtrMatchGet
+                0x0000000000000000       0x60 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+ .text.PRCMOCRRegisterWrite
+                0x0000000000000000       0x60 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+ .text.PRCMOCRRegisterRead
+                0x0000000000000000       0x44 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+ .text.PRCMIntRegister
+                0x0000000000000000       0x1e /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+ .text.PRCMIntUnregister
+                0x0000000000000000       0x14 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+ .text.PRCMIntDisable
+                0x0000000000000000       0x48 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+ .text.PRCMIntStatus
+                0x0000000000000000       0x14 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+ .text.PRCMRTCInUseSet
+                0x0000000000000000        0xc /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+ .text.PRCMRTCInUseGet
+                0x0000000000000000       0x18 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+ .text.PRCMRTCSet
+                0x0000000000000000       0xae /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+ .text.PRCMRTCGet
+                0x0000000000000000       0xb8 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+ .text.PRCMRTCMatchSet
+                0x0000000000000000       0xf0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+ .text.PRCMRTCMatchGet
+                0x0000000000000000       0xb4 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+ .text.PRCMCameraFreqSet
+                0x0000000000000000       0x50 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+ .text.PRCMIORetentionEnable
+                0x0000000000000000       0xd4 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+ .text.PRCMIORetentionDisable
+                0x0000000000000000       0xd4 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+ .text.PRCMDeviceTypeGet
+                0x0000000000000000      0x124 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+ .text.PRCMHibernateCycleTrigger
+                0x0000000000000000       0xc8 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+ .text          0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(spi.obj)
+ .data          0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(spi.obj)
+ .bss           0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(spi.obj)
+ .rodata.g_ppulSPIIntMap
+                0x0000000000000000       0x24 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(spi.obj)
+ .rodata.g_ulSPIDmaMaskMap
+                0x0000000000000000       0x18 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(spi.obj)
+ .text.SPITransfer8
+                0x0000000000000000       0xe8 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(spi.obj)
+ .text.SPITransfer16
+                0x0000000000000000      0x102 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(spi.obj)
+ .text.SPITransfer32
+                0x0000000000000000      0x100 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(spi.obj)
+ .text.SPIIntNumberGet
+                0x0000000000000000       0x58 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(spi.obj)
+ .text.SPIDmaMaskGet
+                0x0000000000000000       0x48 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(spi.obj)
+ .text.SPIEnable
+                0x0000000000000000       0x26 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(spi.obj)
+ .text.SPIDisable
+                0x0000000000000000       0x26 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(spi.obj)
+ .text.SPIDmaEnable
+                0x0000000000000000       0x2a /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(spi.obj)
+ .text.SPIDmaDisable
+                0x0000000000000000       0x2a /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(spi.obj)
+ .text.SPIReset
+                0x0000000000000000       0x3a /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(spi.obj)
+ .text.SPIConfigSetExpClk
+                0x0000000000000000       0xb8 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(spi.obj)
+ .text.SPIDataGetNonBlocking
+                0x0000000000000000       0x3a /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(spi.obj)
+ .text.SPIDataGet
+                0x0000000000000000       0x32 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(spi.obj)
+ .text.SPIDataPutNonBlocking
+                0x0000000000000000       0x3a /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(spi.obj)
+ .text.SPIDataPut
+                0x0000000000000000       0x32 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(spi.obj)
+ .text.SPIFIFOEnable
+                0x0000000000000000       0x2a /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(spi.obj)
+ .text.SPIFIFODisable
+                0x0000000000000000       0x2a /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(spi.obj)
+ .text.SPIFIFOLevelSet
+                0x0000000000000000       0x42 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(spi.obj)
+ .text.SPIFIFOLevelGet
+                0x0000000000000000       0x32 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(spi.obj)
+ .text.SPIWordCountSet
+                0x0000000000000000       0x30 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(spi.obj)
+ .text.SPIIntRegister
+                0x0000000000000000       0x2a /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(spi.obj)
+ .text.SPIIntUnregister
+                0x0000000000000000       0x26 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(spi.obj)
+ .text.SPIIntEnable
+                0x0000000000000000       0x68 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(spi.obj)
+ .text.SPIIntDisable
+                0x0000000000000000       0x6c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(spi.obj)
+ .text.SPIIntStatus
+                0x0000000000000000       0x88 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(spi.obj)
+ .text.SPIIntClear
+                0x0000000000000000       0x60 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(spi.obj)
+ .text.SPICSEnable
+                0x0000000000000000       0x26 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(spi.obj)
+ .text.SPICSDisable
+                0x0000000000000000       0x26 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(spi.obj)
+ .text.SPITransfer
+                0x0000000000000000       0x8e /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(spi.obj)
+ .debug_info    0x0000000000000000      0xa4b /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(spi.obj)
+ .debug_abbrev  0x0000000000000000      0x161 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(spi.obj)
+ .debug_aranges
+                0x0000000000000000      0x100 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(spi.obj)
+ .debug_ranges  0x0000000000000000       0xf0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(spi.obj)
+ .debug_line    0x0000000000000000      0x759 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(spi.obj)
+ .debug_str     0x0000000000000000      0x4d2 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(spi.obj)
+ .comment       0x0000000000000000       0x7a /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(spi.obj)
+ .debug_frame   0x0000000000000000      0x480 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(spi.obj)
+ .ARM.attributes
+                0x0000000000000000       0x2e /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(spi.obj)
+ .text          0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(systick.obj)
+ .data          0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(systick.obj)
+ .bss           0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(systick.obj)
+ .text.SysTickDisable
+                0x0000000000000000       0x1c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(systick.obj)
+ .text.SysTickIntRegister
+                0x0000000000000000       0x28 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(systick.obj)
+ .text.SysTickIntUnregister
+                0x0000000000000000       0x20 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(systick.obj)
+ .text.SysTickPeriodGet
+                0x0000000000000000       0x18 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(systick.obj)
+ .text.SysTickValueGet
+                0x0000000000000000       0x14 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(systick.obj)
+ .text          0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(timer.obj)
+ .data          0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(timer.obj)
+ .bss           0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(timer.obj)
+ .text.TimerEnable
+                0x0000000000000000       0x2a /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(timer.obj)
+ .text.TimerDisable
+                0x0000000000000000       0x2c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(timer.obj)
+ .text.TimerConfigure
+                0x0000000000000000       0x54 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(timer.obj)
+ .text.TimerControlLevel
+                0x0000000000000000       0x46 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(timer.obj)
+ .text.TimerControlEvent
+                0x0000000000000000       0x3e /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(timer.obj)
+ .text.TimerControlStall
+                0x0000000000000000       0x46 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(timer.obj)
+ .text.TimerPrescaleSet
+                0x0000000000000000       0x3c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(timer.obj)
+ .text.TimerPrescaleGet
+                0x0000000000000000       0x28 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(timer.obj)
+ .text.TimerPrescaleMatchSet
+                0x0000000000000000       0x3c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(timer.obj)
+ .text.TimerPrescaleMatchGet
+                0x0000000000000000       0x28 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(timer.obj)
+ .text.TimerLoadSet
+                0x0000000000000000       0x3c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(timer.obj)
+ .text.TimerLoadGet
+                0x0000000000000000       0x28 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(timer.obj)
+ .text.TimerValueGet
+                0x0000000000000000       0x28 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(timer.obj)
+ .text.TimerValueSet
+                0x0000000000000000       0x32 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(timer.obj)
+ .text.TimerMatchSet
+                0x0000000000000000       0x3c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(timer.obj)
+ .text.TimerMatchGet
+                0x0000000000000000       0x28 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(timer.obj)
+ .text.TimerIntRegister
+                0x0000000000000000       0x80 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(timer.obj)
+ .text.TimerIntUnregister
+                0x0000000000000000       0x78 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(timer.obj)
+ .text.TimerIntEnable
+                0x0000000000000000       0x26 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(timer.obj)
+ .text.TimerIntDisable
+                0x0000000000000000       0x26 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(timer.obj)
+ .text.TimerIntStatus
+                0x0000000000000000       0x2a /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(timer.obj)
+ .text.TimerIntClear
+                0x0000000000000000       0x1e /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(timer.obj)
+ .text.TimerDMAEventSet
+                0x0000000000000000       0x1e /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(timer.obj)
+ .text.TimerDMAEventGet
+                0x0000000000000000       0x18 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(timer.obj)
+ .debug_info    0x0000000000000000      0x612 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(timer.obj)
+ .debug_abbrev  0x0000000000000000       0xec /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(timer.obj)
+ .debug_aranges
+                0x0000000000000000       0xd8 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(timer.obj)
+ .debug_ranges  0x0000000000000000       0xc8 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(timer.obj)
+ .debug_line    0x0000000000000000      0x581 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(timer.obj)
+ .debug_str     0x0000000000000000      0x362 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(timer.obj)
+ .comment       0x0000000000000000       0x7a /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(timer.obj)
+ .debug_frame   0x0000000000000000      0x3c8 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(timer.obj)
+ .ARM.attributes
+                0x0000000000000000       0x2e /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(timer.obj)
+ .text          0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(utils.obj)
+ .data          0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(utils.obj)
+ .bss           0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(utils.obj)
+ .text          0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(flash.obj)
+ .data          0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(flash.obj)
+ .bss           0x0000000000000000        0x0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(flash.obj)
+ .rodata.g_pulFMPPERegs
+                0x0000000000000000       0x40 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(flash.obj)
+ .rodata.g_pulFMPRERegs
+                0x0000000000000000       0x40 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(flash.obj)
+ .text.FlashErase
+                0x0000000000000000       0x60 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(flash.obj)
+ .text.FlashEraseNonBlocking
+                0x0000000000000000       0x38 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(flash.obj)
+ .text.FlashMassErase
+                0x0000000000000000       0x50 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(flash.obj)
+ .text.FlashMassEraseNonBlocking
+                0x0000000000000000       0x28 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(flash.obj)
+ .text.FlashProgram
+                0x0000000000000000       0xb4 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(flash.obj)
+ .text.FlashProgramNonBlocking
+                0x0000000000000000       0xa4 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(flash.obj)
+ .text.FlashProtectGet
+                0x0000000000000000       0x78 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(flash.obj)
+ .text.FlashIntRegister
+                0x0000000000000000       0x1e /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(flash.obj)
+ .text.FlashIntUnregister
+                0x0000000000000000       0x14 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(flash.obj)
+ .text.FlashIntEnable
+                0x0000000000000000       0x24 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(flash.obj)
+ .text.FlashIntDisable
+                0x0000000000000000       0x24 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(flash.obj)
+ .text.FlashIntStatus
+                0x0000000000000000       0x2c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(flash.obj)
+ .text.FlashIntClear
+                0x0000000000000000       0x1c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(flash.obj)
+ .text          0x0000000000000000       0xa0 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_aeabi_ldivmod.o)
+ .data          0x0000000000000000        0x0 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_aeabi_ldivmod.o)
+ .bss           0x0000000000000000        0x0 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_aeabi_ldivmod.o)
+ .debug_frame   0x0000000000000000       0x44 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_aeabi_ldivmod.o)
+ .ARM.attributes
+                0x0000000000000000       0x1e /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_aeabi_ldivmod.o)
+ .data          0x0000000000000000        0x0 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x0000000000000000        0x0 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_aeabi_uldivmod.o)
+ .data          0x0000000000000000        0x0 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_udivmoddi4.o)
+ .bss           0x0000000000000000        0x0 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_udivmoddi4.o)
+ .ARM.extab     0x0000000000000000        0x0 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_udivmoddi4.o)
+ .data          0x0000000000000000        0x0 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_dvmd_tls.o)
+ .bss           0x0000000000000000        0x0 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_dvmd_tls.o)
+ .text          0x0000000000000000        0x0 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-malloc.o)
+ .data          0x0000000000000000        0x0 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-malloc.o)
+ .bss           0x0000000000000000        0x0 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-malloc.o)
+ .text          0x0000000000000000        0x0 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-memcpy-stub.o)
+ .data          0x0000000000000000        0x0 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-memcpy-stub.o)
+ .bss           0x0000000000000000        0x0 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-memcpy-stub.o)
+ .text          0x0000000000000000        0x0 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-nano-freer.o)
+ .data          0x0000000000000000        0x0 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-nano-freer.o)
+ .bss           0x0000000000000000        0x0 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-nano-freer.o)
+ .text          0x0000000000000000        0x0 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-nano-mallocr.o)
+ .data          0x0000000000000000        0x0 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-nano-mallocr.o)
+ .bss           0x0000000000000000        0x0 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-nano-mallocr.o)
+ .text          0x0000000000000000        0x0 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-sbrkr.o)
+ .data          0x0000000000000000        0x0 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-sbrkr.o)
+ .bss           0x0000000000000000        0x0 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-sbrkr.o)
+ .text          0x0000000000000000        0x0 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x0000000000000000        0x4 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-mlock.o)
+ .data          0x0000000000000000        0x0 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-mlock.o)
+ .bss           0x0000000000000000        0x0 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-mlock.o)
+ .text          0x0000000000000000        0x0 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-reent.o)
+ .data          0x0000000000000000        0x0 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-reent.o)
+ .bss           0x0000000000000000        0x0 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x0000000000000000       0x1a /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x0000000000000000       0xb8 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-reent.o)
+ .text          0x0000000000000000        0x0 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-lock.o)
+ .data          0x0000000000000000        0x0 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-lock.o)
+ .bss           0x0000000000000000        0x0 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x0000000000000000        0x2 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x0000000000000000        0x2 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_close
+                0x0000000000000000        0x2 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x0000000000000000        0x2 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x0000000000000000        0x2 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x0000000000000000        0x4 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x0000000000000000        0x4 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_release
+                0x0000000000000000        0x2 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-lock.o)
+ .text          0x0000000000000000        0x0 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libnosys.a(sbrk.o)
+ .data          0x0000000000000000        0x0 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libnosys.a(sbrk.o)
+ .bss           0x0000000000000000        0x0 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libnosys.a(sbrk.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+SRAM             0x0000000020004000 0x000000000003c000 xrw
+LOG_DATA         0x0000000090000000 0x0000000000040000 r
+LOG_PTR          0x0000000094000008 0x0000000000040000 r
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD ./gpiointerrupt.o
+LOAD ./syscfg/ti_drivers_config.o
+LOAD ./main_nortos.o
+                0x0000000000001000                STACKSIZE = 0x1000
+                0x0000000000008000                HEAP_SIZE = 0x8000
+                0x0000000020004000                PROVIDE (_resetVecs_base_address = DEFINED (_resetVecs_base_address)?_resetVecs_base_address:0x20004000)
+
+.resetVecs      0x0000000020004000       0x40
+ *(.resetVecs)
+ .resetVecs     0x0000000020004000       0x40 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(startup_cc32xx_gcc.c.obj)
+
+.ramVecs        0x0000000020004400      0x30c
+ *(.ramVecs)
+ .ramVecs       0x0000000020004400      0x30c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(startup_cc32xx_gcc.c.obj)
+
+.text           0x0000000020004710     0x2d70
+ CREATE_OBJECT_SYMBOLS
+ *(.text)
+ .text          0x0000000020004710       0x98 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX_gcc.asm.obj)
+                0x0000000020004710                PowerCC32XX_enterLPDS
+                0x0000000020004754                PowerCC32XX_resumeLPDS
+ .text          0x00000000200047a8       0x30 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_aeabi_uldivmod.o)
+                0x00000000200047a8                __aeabi_uldivmod
+ .text          0x00000000200047d8      0x2c0 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_udivmoddi4.o)
+                0x00000000200047d8                __udivmoddi4
+ .text          0x0000000020004a98        0x4 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_dvmd_tls.o)
+                0x0000000020004a98                __aeabi_ldiv0
+                0x0000000020004a98                __aeabi_idiv0
+ *(.text.*)
+ .text.gpioButtonFxn0
+                0x0000000020004a9c        0x8 ./gpiointerrupt.o
+                0x0000000020004a9c                gpioButtonFxn0
+ .text.gpioButtonFxn1
+                0x0000000020004aa4        0x8 ./gpiointerrupt.o
+                0x0000000020004aa4                gpioButtonFxn1
+ .text.mainThread
+                0x0000000020004aac       0x60 ./gpiointerrupt.o
+                0x0000000020004aac                mainThread
+ .text.Board_initHook
+                0x0000000020004b0c        0x4 ./syscfg/ti_drivers_config.o
+                0x0000000020004b0c                Board_initHook
+ .text.Board_init
+                0x0000000020004b10       0x14 ./syscfg/ti_drivers_config.o
+                0x0000000020004b10                Board_init
+ .text.startup.main
+                0x0000000020004b24       0x14 ./main_nortos.o
+                0x0000000020004b24                main
+ .text.GPIO_setCallback
+                0x0000000020004b38       0x1c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(GPIO.c.obj)
+                0x0000000020004b38                GPIO_setCallback
+ .text.GPIO_hwiIntFxn
+                0x0000000020004b54       0x54 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(GPIOCC32XX.c.obj)
+                0x0000000020004b54                GPIO_hwiIntFxn
+ .text.GPIO_enableInt
+                0x0000000020004ba8       0x44 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(GPIOCC32XX.c.obj)
+                0x0000000020004ba8                GPIO_enableInt
+ .text.GPIO_setInterruptConfig
+                0x0000000020004bec       0x9c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(GPIOCC32XX.c.obj)
+                0x0000000020004bec                GPIO_setInterruptConfig
+ .text.GPIO_setConfig
+                0x0000000020004c88      0x160 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(GPIOCC32XX.c.obj)
+                0x0000000020004c88                GPIO_setConfig
+ .text.GPIO_init
+                0x0000000020004de8       0xa0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(GPIOCC32XX.c.obj)
+                0x0000000020004de8                GPIO_init
+ .text.powerNotifyFxn
+                0x0000000020004e88       0x84 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(GPIOCC32XX.c.obj)
+ .text.GPIO_toggle
+                0x0000000020004f0c       0x5c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(GPIOCC32XX.c.obj)
+                0x0000000020004f0c                GPIO_toggle
+ .text.GPIO_write
+                0x0000000020004f68       0x8c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(GPIOCC32XX.c.obj)
+                0x0000000020004f68                GPIO_write
+ .text.Power_disablePolicy
+                0x0000000020004ff4       0x14 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX.c.obj)
+                0x0000000020004ff4                Power_disablePolicy
+ .text.Power_enablePolicy
+                0x0000000020005008       0x10 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX.c.obj)
+                0x0000000020005008                Power_enablePolicy
+ .text.Power_getConstraintMask
+                0x0000000020005018        0xc /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX.c.obj)
+                0x0000000020005018                Power_getConstraintMask
+ .text.Power_getTransitionLatency
+                0x0000000020005024       0x14 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX.c.obj)
+                0x0000000020005024                Power_getTransitionLatency
+ .text.Power_idleFunc
+                0x0000000020005038       0x14 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX.c.obj)
+                0x0000000020005038                Power_idleFunc
+ .text.Power_init
+                0x000000002000504c       0xd8 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX.c.obj)
+                0x000000002000504c                Power_init
+ .text.Power_registerNotify
+                0x0000000020005124       0x24 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX.c.obj)
+                0x0000000020005124                Power_registerNotify
+ .text.Power_setDependency
+                0x0000000020005148       0x78 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX.c.obj)
+                0x0000000020005148                Power_setDependency
+ .text.Power_sleep
+                0x00000000200051c0      0x554 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX.c.obj)
+                0x00000000200051c0                Power_sleep
+ .text.PowerCC32XX_setParkState
+                0x0000000020005714       0x64 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX.c.obj)
+                0x0000000020005714                PowerCC32XX_setParkState
+ .text.List_put
+                0x0000000020005778       0x2c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(List.c.obj)
+                0x0000000020005778                List_put
+ .text.NoRTOS_start
+                0x00000000200057a4        0x4 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(NoRTOS.c.obj)
+                0x00000000200057a4                NoRTOS_start
+ .text.clkFxn   0x00000000200057a8        0x4 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SemaphoreP_nortos.c.obj)
+                0x00000000200057a8                clkFxn
+ .text.SemaphoreP_createBinary
+                0x00000000200057ac       0x40 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SemaphoreP_nortos.c.obj)
+                0x00000000200057ac                SemaphoreP_createBinary
+ .text.SemaphoreP_delete
+                0x00000000200057ec        0x4 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SemaphoreP_nortos.c.obj)
+                0x00000000200057ec                SemaphoreP_delete
+ .text.SemaphoreP_pend
+                0x00000000200057f0       0xfc /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SemaphoreP_nortos.c.obj)
+                0x00000000200057f0                SemaphoreP_pend
+ .text.SemaphoreP_post
+                0x00000000200058ec       0x44 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SemaphoreP_nortos.c.obj)
+                0x00000000200058ec                SemaphoreP_post
+ .text.ClockP_sysTickHandler
+                0x0000000020005930       0x7c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(ClockPSysTick_nortos.c.obj)
+                0x0000000020005930                ClockP_sysTickHandler
+ .text.ClockP_add
+                0x00000000200059ac       0x14 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(ClockPSysTick_nortos.c.obj)
+                0x00000000200059ac                ClockP_add
+ .text.ClockP_destruct
+                0x00000000200059c0       0x44 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(ClockPSysTick_nortos.c.obj)
+                0x00000000200059c0                ClockP_destruct
+ .text.ClockP_doTick
+                0x0000000020005a04        0x4 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(ClockPSysTick_nortos.c.obj)
+                0x0000000020005a04                ClockP_doTick
+ .text.ClockP_getCpuFreq
+                0x0000000020005a08       0x10 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(ClockPSysTick_nortos.c.obj)
+                0x0000000020005a08                ClockP_getCpuFreq
+ .text.ClockP_getSystemTicks
+                0x0000000020005a18       0x70 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(ClockPSysTick_nortos.c.obj)
+                0x0000000020005a18                ClockP_getSystemTicks
+ .text.ClockP_getTicksUntilInterrupt
+                0x0000000020005a88       0x40 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(ClockPSysTick_nortos.c.obj)
+                0x0000000020005a88                ClockP_getTicksUntilInterrupt
+ .text.ClockP_isActive
+                0x0000000020005ac8        0xc /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(ClockPSysTick_nortos.c.obj)
+                0x0000000020005ac8                ClockP_isActive
+ .text.ClockP_setTicks
+                0x0000000020005ad4       0x10 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(ClockPSysTick_nortos.c.obj)
+                0x0000000020005ad4                ClockP_setTicks
+ .text.ClockP_start
+                0x0000000020005ae4       0xa8 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(ClockPSysTick_nortos.c.obj)
+                0x0000000020005ae4                ClockP_start
+ .text.ClockP_startup
+                0x0000000020005b8c       0x68 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(ClockPSysTick_nortos.c.obj)
+                0x0000000020005b8c                ClockP_startup
+ .text.HwiP_dispatch
+                0x0000000020005bf4       0x1c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(HwiPCC32XX_nortos.c.obj)
+                0x0000000020005bf4                HwiP_dispatch
+ .text.HwiP_enable
+                0x0000000020005c10        0x4 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(HwiPCC32XX_nortos.c.obj)
+                0x0000000020005c10                HwiP_enable
+ .text.HwiP_disable
+                0x0000000020005c14        0x8 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(HwiPCC32XX_nortos.c.obj)
+                0x0000000020005c14                HwiP_disable
+ .text.HwiP_restore
+                0x0000000020005c1c        0x8 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(HwiPCC32XX_nortos.c.obj)
+                0x0000000020005c1c                HwiP_restore
+ .text.HwiP_create
+                0x0000000020005c24       0x90 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(HwiPCC32XX_nortos.c.obj)
+                0x0000000020005c24                HwiP_create
+ .text.HwiP_Params_init
+                0x0000000020005cb4       0x14 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(HwiPCC32XX_nortos.c.obj)
+                0x0000000020005cb4                HwiP_Params_init
+ .text.HwiP_post
+                0x0000000020005cc8        0x4 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(HwiPCC32XX_nortos.c.obj)
+                0x0000000020005cc8                HwiP_post
+ .text.HwiP_inISR
+                0x0000000020005ccc       0x10 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(HwiPCC32XX_nortos.c.obj)
+                0x0000000020005ccc                HwiP_inISR
+ .text.PowerCC32XX_initPolicy
+                0x0000000020005cdc        0x4 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(PowerCC32XX_nortos.c.obj)
+                0x0000000020005cdc                PowerCC32XX_initPolicy
+ .text.PowerCC32XX_sleepPolicy
+                0x0000000020005ce0      0x220 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(PowerCC32XX_nortos.c.obj)
+                0x0000000020005ce0                PowerCC32XX_sleepPolicy
+ .text.nmiISR   0x0000000020005f00        0x4 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(startup_cc32xx_gcc.c.obj)
+ .text.faultISR
+                0x0000000020005f04        0x4 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(startup_cc32xx_gcc.c.obj)
+ .text.busFaultHandler
+                0x0000000020005f08        0x4 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(startup_cc32xx_gcc.c.obj)
+ .text.defaultHandler
+                0x0000000020005f0c        0x4 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(startup_cc32xx_gcc.c.obj)
+ .text.resetISR
+                0x0000000020005f10       0x14 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(startup_cc32xx_gcc.c.obj)
+                0x0000000020005f10                resetISR
+ .text.localProgramStart
+                0x0000000020005f24       0xc4 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(startup_cc32xx_gcc.c.obj)
+                0x0000000020005f24                localProgramStart
+ .text._fini    0x0000000020005fe8        0x4 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(startup_cc32xx_gcc.c.obj)
+                0x0000000020005fe8                _fini
+ .text.SwiP_disable
+                0x0000000020005fec       0x1c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SwiP_nortos.c.obj)
+                0x0000000020005fec                SwiP_disable
+ .text.SwiP_restore
+                0x0000000020006008       0x48 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SwiP_nortos.c.obj)
+                0x0000000020006008                SwiP_restore
+ .text.CPUcpsid
+                0x0000000020006050       0x16 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(cpu.obj)
+                0x0000000020006050                CPUcpsid
+ .text.CPUcpsie
+                0x0000000020006066       0x16 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(cpu.obj)
+                0x0000000020006066                CPUcpsie
+ .text.CPUwfi   0x000000002000607c        0xe /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(cpu.obj)
+                0x000000002000607c                CPUwfi
+ .text.GPIODirModeSet
+                0x000000002000608a       0x46 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(gpio.obj)
+                0x000000002000608a                GPIODirModeSet
+ .text.GPIOIntTypeSet
+                0x00000000200060d0       0xa2 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(gpio.obj)
+                0x00000000200060d0                GPIOIntTypeSet
+ .text.GPIOIntEnable
+                0x0000000020006172       0x2a /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(gpio.obj)
+                0x0000000020006172                GPIOIntEnable
+ .text.GPIOIntDisable
+                0x000000002000619c       0x2a /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(gpio.obj)
+                0x000000002000619c                GPIOIntDisable
+ .text.GPIOIntStatus
+                0x00000000200061c6       0x2e /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(gpio.obj)
+                0x00000000200061c6                GPIOIntStatus
+ .text.GPIOIntClear
+                0x00000000200061f4       0x20 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(gpio.obj)
+                0x00000000200061f4                GPIOIntClear
+ .text.GPIOPinRead
+                0x0000000020006214       0x22 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(gpio.obj)
+                0x0000000020006214                GPIOPinRead
+ .text.GPIOPinWrite
+                0x0000000020006236       0x2a /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(gpio.obj)
+                0x0000000020006236                GPIOPinWrite
+ .text.IntMasterEnable
+                0x0000000020006260       0x10 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(interrupt.obj)
+                0x0000000020006260                IntMasterEnable
+ .text.IntMasterDisable
+                0x0000000020006270       0x10 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(interrupt.obj)
+                0x0000000020006270                IntMasterDisable
+ .text.IntVTableBaseSet
+                0x0000000020006280       0x1c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(interrupt.obj)
+                0x0000000020006280                IntVTableBaseSet
+ .text.IntRegister
+                0x000000002000629c       0x2c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(interrupt.obj)
+                0x000000002000629c                IntRegister
+ .text.IntPrioritySet
+                0x00000000200062c8       0x68 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(interrupt.obj)
+                0x00000000200062c8                IntPrioritySet
+ .text.IntEnable
+                0x0000000020006330       0xbc /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(interrupt.obj)
+                0x0000000020006330                IntEnable
+ .text.IntPendSet
+                0x00000000200063ec       0x9c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(interrupt.obj)
+                0x00000000200063ec                IntPendSet
+ .text.PinModeSet
+                0x0000000020006488       0x48 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(pin.obj)
+                0x0000000020006488                PinModeSet
+ .text.PinModeGet
+                0x00000000200064d0       0x3c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(pin.obj)
+                0x00000000200064d0                PinModeGet
+ .text.PinDirModeSet
+                0x000000002000650c       0x44 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(pin.obj)
+                0x000000002000650c                PinDirModeSet
+ .text.PinDirModeGet
+                0x0000000020006550       0x3c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(pin.obj)
+                0x0000000020006550                PinDirModeGet
+ .text.PinConfigGet
+                0x000000002000658c       0x50 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(pin.obj)
+                0x000000002000658c                PinConfigGet
+ .text.PinConfigSet
+                0x00000000200065dc       0x9c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(pin.obj)
+                0x00000000200065dc                PinConfigSet
+ .text.PinLockLevelSet
+                0x0000000020006678       0x68 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(pin.obj)
+                0x0000000020006678                PinLockLevelSet
+ .text.PinLock  0x00000000200066e0       0x40 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(pin.obj)
+                0x00000000200066e0                PinLock
+ .text.PinUnlock
+                0x0000000020006720       0x2c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(pin.obj)
+                0x0000000020006720                PinUnlock
+ .text.PinToPadGet
+                0x000000002000674c       0x24 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(pin.obj)
+                0x000000002000674c                PinToPadGet
+ .text.PRCMSysResetCauseGet
+                0x0000000020006770       0x78 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+                0x0000000020006770                PRCMSysResetCauseGet
+ .text.PRCMPeripheralClkEnable
+                0x00000000200067e8       0x6c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+                0x00000000200067e8                PRCMPeripheralClkEnable
+ .text.PRCMPeripheralClkDisable
+                0x0000000020006854       0x48 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+                0x0000000020006854                PRCMPeripheralClkDisable
+ .text.PRCMPeripheralReset
+                0x000000002000689c       0x8c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+                0x000000002000689c                PRCMPeripheralReset
+ .text.PRCMPeripheralStatusGet
+                0x0000000020006928       0x40 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+                0x0000000020006928                PRCMPeripheralStatusGet
+ .text.PRCMLPDSRestoreInfoSet
+                0x0000000020006968       0x50 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+                0x0000000020006968                PRCMLPDSRestoreInfoSet
+ .text.PRCMLPDSEnter
+                0x00000000200069b8       0x50 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+                0x00000000200069b8                PRCMLPDSEnter
+ .text.PRCMLPDSEnterKeepDebugIf
+                0x0000000020006a08       0x40 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+                0x0000000020006a08                PRCMLPDSEnterKeepDebugIf
+ .text.PRCMLPDSWakeupSourceEnable
+                0x0000000020006a48       0x30 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+                0x0000000020006a48                PRCMLPDSWakeupSourceEnable
+ .text.PRCMLPDSWakeupSourceDisable
+                0x0000000020006a78       0x24 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+                0x0000000020006a78                PRCMLPDSWakeupSourceDisable
+ .text.PRCMLPDSWakeupCauseGet
+                0x0000000020006a9c       0x14 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+                0x0000000020006a9c                PRCMLPDSWakeupCauseGet
+ .text.PRCMLPDSIntervalSet
+                0x0000000020006ab0       0x34 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+                0x0000000020006ab0                PRCMLPDSIntervalSet
+ .text.PRCMLPDSWakeUpGPIOSelect
+                0x0000000020006ae4       0x2c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+                0x0000000020006ae4                PRCMLPDSWakeUpGPIOSelect
+ .text.PRCMSleepEnter
+                0x0000000020006b10        0xc /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+                0x0000000020006b10                PRCMSleepEnter
+ .text.PRCMSRAMRetentionEnable
+                0x0000000020006b1c       0x2c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+                0x0000000020006b1c                PRCMSRAMRetentionEnable
+ .text.PRCMHibernateWakeupSourceEnable
+                0x0000000020006b48       0x50 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+                0x0000000020006b48                PRCMHibernateWakeupSourceEnable
+ .text.PRCMHibernateWakeupSourceDisable
+                0x0000000020006b98       0x54 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+                0x0000000020006b98                PRCMHibernateWakeupSourceDisable
+ .text.PRCMHibernateWakeUpGPIOSelect
+                0x0000000020006bec       0x74 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+                0x0000000020006bec                PRCMHibernateWakeUpGPIOSelect
+ .text.PRCMSlowClkCtrFastGet
+                0x0000000020006c60       0x5c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+                0x0000000020006c60                PRCMSlowClkCtrFastGet
+ .text.PRCMIntEnable
+                0x0000000020006cbc       0x48 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+                0x0000000020006cbc                PRCMIntEnable
+ .text.PRCMCC3200MCUInit
+                0x0000000020006d04      0x478 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+                0x0000000020006d04                PRCMCC3200MCUInit
+ .text.PRCMHIBRegRead
+                0x000000002000717c       0x20 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+                0x000000002000717c                PRCMHIBRegRead
+ .text.PRCMHIBRegWrite
+                0x000000002000719c       0x20 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+                0x000000002000719c                PRCMHIBRegWrite
+ .text.SysTickEnable
+                0x00000000200071bc       0x1c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(systick.obj)
+                0x00000000200071bc                SysTickEnable
+ .text.SysTickIntEnable
+                0x00000000200071d8       0x1c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(systick.obj)
+                0x00000000200071d8                SysTickIntEnable
+ .text.SysTickIntDisable
+                0x00000000200071f4       0x1c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(systick.obj)
+                0x00000000200071f4                SysTickIntDisable
+ .text.SysTickPeriodSet
+                0x0000000020007210       0x20 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(systick.obj)
+                0x0000000020007210                SysTickPeriodSet
+ .text.UtilsDelay
+                0x0000000020007230        0xa /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(utils.obj)
+                0x0000000020007230                UtilsDelay
+ *fill*         0x000000002000723a        0x2 
+ .text.FlashDisable
+                0x000000002000723c       0x50 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(flash.obj)
+                0x000000002000723c                FlashDisable
+ .text.malloc   0x000000002000728c       0x10 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-malloc.o)
+                0x000000002000728c                malloc
+ .text.free     0x000000002000729c       0x10 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-malloc.o)
+                0x000000002000729c                free
+ .text.memcpy   0x00000000200072ac       0x1c /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-memcpy-stub.o)
+                0x00000000200072ac                memcpy
+ .text.memset   0x00000000200072c8       0x10 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-memset.o)
+                0x00000000200072c8                memset
+ .text._free_r  0x00000000200072d8       0x9c /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-nano-freer.o)
+                0x00000000200072d8                _free_r
+ .text._malloc_r
+                0x0000000020007374       0xb4 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-nano-mallocr.o)
+                0x0000000020007374                _malloc_r
+ .text._sbrk_r  0x0000000020007428       0x20 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-sbrkr.o)
+                0x0000000020007428                _sbrk_r
+ .text.__malloc_lock
+                0x0000000020007448        0xc /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-mlock.o)
+                0x0000000020007448                __malloc_lock
+ .text.__malloc_unlock
+                0x0000000020007454        0xc /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-mlock.o)
+                0x0000000020007454                __malloc_unlock
+ .text.__retarget_lock_acquire_recursive
+                0x0000000020007460        0x2 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-lock.o)
+                0x0000000020007460                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_release_recursive
+                0x0000000020007462        0x2 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-lock.o)
+                0x0000000020007462                __retarget_lock_release_recursive
+ .text._sbrk    0x0000000020007464       0x1c /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libnosys.a(sbrk.o)
+                0x0000000020007464                _sbrk
+                0x0000000020007480                . = ALIGN (0x4)
+ *(.ctors)
+                0x0000000020007480                . = ALIGN (0x4)
+ *(.dtors)
+                0x0000000020007480                . = ALIGN (0x4)
+                0x0000000020007480                __init_array_start = .
+ *(.init_array*)
+                0x0000000020007480                __init_array_end = .
+ *(.init)
+ *(.fini*)
+                [!provide]                        PROVIDE (__etext = .)
+                [!provide]                        PROVIDE (_etext = .)
+                [!provide]                        PROVIDE (etext = .)
+
+.glue_7         0x0000000020007480        0x0
+ .glue_7        0x0000000020007480        0x0 linker stubs
+
+.glue_7t        0x0000000020007480        0x0
+ .glue_7t       0x0000000020007480        0x0 linker stubs
+
+.vfp11_veneer   0x0000000020007480        0x0
+ .vfp11_veneer  0x0000000020007480        0x0 linker stubs
+
+.v4_bx          0x0000000020007480        0x0
+ .v4_bx         0x0000000020007480        0x0 linker stubs
+
+.iplt           0x0000000020007480        0x0
+ .iplt          0x0000000020007480        0x0 ./gpiointerrupt.o
+
+.rodata         0x0000000020007480      0x350
+ *(.rodata)
+ *(.rodata*)
+ .rodata.GPIO_config
+                0x0000000020007480       0x10 ./syscfg/ti_drivers_config.o
+                0x0000000020007480                GPIO_config
+ .rodata.GPIO_pinUpperBound
+                0x0000000020007490        0x1 ./syscfg/ti_drivers_config.o
+                0x0000000020007490                GPIO_pinUpperBound
+ *fill*         0x0000000020007491        0x3 
+ .rodata.PowerCC32XX_config
+                0x0000000020007494       0x44 ./syscfg/ti_drivers_config.o
+                0x0000000020007494                PowerCC32XX_config
+ .rodata.pinTable
+                0x00000000200074d8       0x21 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(GPIOCC32XX.c.obj)
+ *fill*         0x00000000200074f9        0x3 
+ .rodata.portConfigs
+                0x00000000200074fc       0x28 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(GPIOCC32XX.c.obj)
+ .rodata.g_pulRegs
+                0x0000000020007524       0xd4 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(interrupt.obj)
+ .rodata.g_pulEnRegs
+                0x00000000200075f8       0x18 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(interrupt.obj)
+ .rodata.g_pulPendRegs
+                0x0000000020007610       0x18 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(interrupt.obj)
+ .rodata.g_ulPinToPadMap
+                0x0000000020007628      0x100 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(pin.obj)
+ .rodata.PRCM_PeriphRegsList
+                0x0000000020007728       0xa8 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+
+.data           0x00000000200077d0      0x35c
+                0x00000000200077d0                __data_load__ = LOADADDR (.data)
+                0x00000000200077d0                __data_start__ = .
+ *(.data)
+ *(.data*)
+ .data.gpioPinConfigs
+                0x00000000200077d0       0x84 ./syscfg/ti_drivers_config.o
+                0x00000000200077d0                gpioPinConfigs
+ .data.parkInfo
+                0x0000000020007854       0xf8 ./syscfg/ti_drivers_config.o
+                0x0000000020007854                parkInfo
+ .data.PowerCC32XX_module
+                0x000000002000794c      0x16c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX.c.obj)
+                0x000000002000794c                PowerCC32XX_module
+ .data.SemaphoreP_defaultParams
+                0x0000000020007ab8        0x8 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SemaphoreP_nortos.c.obj)
+                0x0000000020007ab8                SemaphoreP_defaultParams
+ .data.ClockP_tickPeriod
+                0x0000000020007ac0        0x4 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(ClockPSysTick_nortos.c.obj)
+                0x0000000020007ac0                ClockP_tickPeriod
+ .data.HwiP_swiPIntNum
+                0x0000000020007ac4        0x4 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(HwiPCC32XX_nortos.c.obj)
+                0x0000000020007ac4                HwiP_swiPIntNum
+ .data._impure_ptr
+                0x0000000020007ac8        0x4 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-impure.o)
+                0x0000000020007ac8                _impure_ptr
+ .data.impure_data
+                0x0000000020007acc       0x60 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-impure.o)
+                0x0000000020007b2c                . = ALIGN (0x4)
+                0x0000000020007b2c                __data_end__ = .
+
+.igot.plt       0x0000000020007b2c        0x0
+ .igot.plt      0x0000000020007b2c        0x0 ./gpiointerrupt.o
+
+.ARM.exidx      0x0000000020007b2c        0x8
+                0x0000000020007b2c                __exidx_start = .
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x0000000020007b2c        0x8 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_udivmoddi4.o)
+                0x0000000020007b34                __exidx_end = .
+
+.rel.dyn        0x0000000020007b34        0x0
+ .rel.iplt      0x0000000020007b34        0x0 ./gpiointerrupt.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.bss            0x0000000020007b38      0x628
+                0x0000000020007b38                __bss_start__ = .
+ *(.shbss)
+ *(.bss)
+ *(.bss.*)
+ .bss.initCalled
+                0x0000000020007b38        0x1 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(GPIOCC32XX.c.obj)
+ *fill*         0x0000000020007b39        0x3 
+ .bss.initSem.4818
+                0x0000000020007b3c        0x4 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(GPIOCC32XX.c.obj)
+ .bss.portHwiCreatedBitMask
+                0x0000000020007b40        0x1 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(GPIOCC32XX.c.obj)
+ *fill*         0x0000000020007b41        0x3 
+ .bss.powerNotifyObj
+                0x0000000020007b44       0x14 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(GPIOCC32XX.c.obj)
+ .bss.SemaphoreP_initialized
+                0x0000000020007b58        0x1 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SemaphoreP_nortos.c.obj)
+ .bss.doEnablePolicy
+                0x0000000020007b59        0x1 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SemaphoreP_nortos.c.obj)
+ .bss.pendInProgress
+                0x0000000020007b5a        0x1 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SemaphoreP_nortos.c.obj)
+ .bss.ClockP_initialized
+                0x0000000020007b5b        0x1 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(ClockPSysTick_nortos.c.obj)
+ .bss.sysTickPeriod
+                0x0000000020007b5c        0x4 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(ClockPSysTick_nortos.c.obj)
+ .bss.HwiP_dispatchTable
+                0x0000000020007b60      0x30c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(HwiPCC32XX_nortos.c.obj)
+ .bss.SwiP_lockState
+                0x0000000020007e6c        0x4 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SwiP_nortos.c.obj)
+ .bss.SwiP_readyMask
+                0x0000000020007e70        0x4 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SwiP_nortos.c.obj)
+ .bss.SwiP_schedulerRunning
+                0x0000000020007e74        0x1 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SwiP_nortos.c.obj)
+ *fill*         0x0000000020007e75        0x3 
+ .bss.__malloc_free_list
+                0x0000000020007e78        0x4 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-nano-mallocr.o)
+                0x0000000020007e78                __malloc_free_list
+ .bss.__malloc_sbrk_start
+                0x0000000020007e7c        0x4 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-nano-mallocr.o)
+                0x0000000020007e7c                __malloc_sbrk_start
+ .bss.heap_end.4144
+                0x0000000020007e80        0x4 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libnosys.a(sbrk.o)
+ *(COMMON)
+ COMMON         0x0000000020007e84      0x18c ./syscfg/ti_drivers_config.o
+                0x0000000020007e84                gpioCallbackFunctions
+                0x0000000020007f08                timerCC32XXObjects
+                0x0000000020007f8c                gpioUserArgs
+ COMMON         0x0000000020008010      0x12c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX.c.obj)
+                0x0000000020008010                PowerCC32XX_contextSave
+ *fill*         0x000000002000813c        0x4 
+ COMMON         0x0000000020008140       0x10 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(ClockPSysTick_nortos.c.obj)
+                0x0000000020008140                ClockP_ctrl
+ COMMON         0x0000000020008150        0x4 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-reent.o)
+                0x0000000020008150                errno
+ COMMON         0x0000000020008154        0x9 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-lock.o)
+                0x0000000020008154                __lock___atexit_recursive_mutex
+                0x0000000020008155                __lock___arc4random_mutex
+                0x0000000020008156                __lock___env_recursive_mutex
+                0x0000000020008157                __lock___sinit_recursive_mutex
+                0x0000000020008158                __lock___malloc_recursive_mutex
+                0x0000000020008159                __lock___at_quick_exit_mutex
+                0x000000002000815a                __lock___dd_hash_mutex
+                0x000000002000815b                __lock___tz_mutex
+                0x000000002000815c                __lock___sfp_recursive_mutex
+                0x0000000020008160                . = ALIGN (0x4)
+ *fill*         0x000000002000815d        0x3 
+                0x0000000020008160                __bss_end__ = .
+
+.heap           0x0000000020008160     0x8000
+                0x0000000020008160                __heap_start__ = .
+                0x0000000020008160                end = __heap_start__
+                0x0000000020008160                _end = end
+                0x0000000020008160                __end = end
+                0x0000000020010160                . = (. + HEAP_SIZE)
+ *fill*         0x0000000020008160     0x8000 
+ *(.heap)
+                0x0000000020010160                __heap_end__ = .
+                0x0000000020010160                __HeapLimit = __heap_end__
+
+.stack          0x0000000020010160     0x1000
+                0x0000000020010160                _stack = .
+                0x0000000020010160                __stack = .
+ *(.stack)
+                0x0000000020011160                . = (. + STACKSIZE)
+ *fill*         0x0000000020010160     0x1000 
+                0x0000000020011160                _stack_end = .
+                0x0000000020011160                __stack_end = .
+
+.log_data
+ *(.log_data)
+
+.log_ptr
+ *(.log_ptr*)
+LOAD /Users/kendall.p.w/workspace_v12/gpiointerrupt_CC3220S_LAUNCHXL_nortos_gcc/MCU+Image/syscfg/ti_utils_build_linker.cmd.genlibs
+LOAD /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a
+LOAD /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/grlib/lib/gcc/m4/grlib.a
+LOAD /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a
+LOAD /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a
+LOAD /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a
+LOAD /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a
+LOAD /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libm.a
+LOAD /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libnosys.a
+START GROUP
+LOAD /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a
+LOAD /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a
+LOAD /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a
+END GROUP
+START GROUP
+LOAD /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a
+LOAD /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a
+END GROUP
+OUTPUT(gpiointerrupt_CC3220S_LAUNCHXL_nortos_gcc.out elf32-littlearm)
+
+.debug_info     0x0000000000000000     0xeb7b
+ .debug_info    0x0000000000000000      0x3a4 ./gpiointerrupt.o
+ .debug_info    0x00000000000003a4      0x96b ./syscfg/ti_drivers_config.o
+ .debug_info    0x0000000000000d0f       0x82 ./main_nortos.o
+ .debug_info    0x0000000000000d91      0xaa4 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(GPIO.c.obj)
+ .debug_info    0x0000000000001835     0x10c8 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(GPIOCC32XX.c.obj)
+ .debug_info    0x00000000000028fd     0x1f70 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX.c.obj)
+ .debug_info    0x000000000000486d      0xc58 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(List.c.obj)
+ .debug_info    0x00000000000054c5      0x1ec /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(NoRTOS.c.obj)
+ .debug_info    0x00000000000056b1     0x1498 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SemaphoreP_nortos.c.obj)
+ .debug_info    0x0000000000006b49     0x1b01 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(ClockPSysTick_nortos.c.obj)
+ .debug_info    0x000000000000864a     0x17d2 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(HwiPCC32XX_nortos.c.obj)
+ .debug_info    0x0000000000009e1c      0x8aa /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(PowerCC32XX_nortos.c.obj)
+ .debug_info    0x000000000000a6c6      0xb83 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(startup_cc32xx_gcc.c.obj)
+ .debug_info    0x000000000000b249     0x1a3a /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SwiP_nortos.c.obj)
+ .debug_info    0x000000000000cc83      0x109 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(cpu.obj)
+ .debug_info    0x000000000000cd8c      0x3e6 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(gpio.obj)
+ .debug_info    0x000000000000d172      0x3a3 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(interrupt.obj)
+ .debug_info    0x000000000000d515      0x545 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(pin.obj)
+ .debug_info    0x000000000000da5a      0xc9c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+ .debug_info    0x000000000000e6f6      0x10e /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(systick.obj)
+ .debug_info    0x000000000000e804       0x52 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(utils.obj)
+ .debug_info    0x000000000000e856      0x325 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(flash.obj)
+
+.debug_abbrev   0x0000000000000000     0x356b
+ .debug_abbrev  0x0000000000000000      0x1ba ./gpiointerrupt.o
+ .debug_abbrev  0x00000000000001ba      0x1c3 ./syscfg/ti_drivers_config.o
+ .debug_abbrev  0x000000000000037d       0x43 ./main_nortos.o
+ .debug_abbrev  0x00000000000003c0      0x23f /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(GPIO.c.obj)
+ .debug_abbrev  0x00000000000005ff      0x386 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(GPIOCC32XX.c.obj)
+ .debug_abbrev  0x0000000000000985      0x509 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX.c.obj)
+ .debug_abbrev  0x0000000000000e8e      0x27b /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(List.c.obj)
+ .debug_abbrev  0x0000000000001109      0x116 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(NoRTOS.c.obj)
+ .debug_abbrev  0x000000000000121f      0x470 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SemaphoreP_nortos.c.obj)
+ .debug_abbrev  0x000000000000168f      0x5d6 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(ClockPSysTick_nortos.c.obj)
+ .debug_abbrev  0x0000000000001c65      0x4e6 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(HwiPCC32XX_nortos.c.obj)
+ .debug_abbrev  0x000000000000214b      0x249 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(PowerCC32XX_nortos.c.obj)
+ .debug_abbrev  0x0000000000002394      0x301 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(startup_cc32xx_gcc.c.obj)
+ .debug_abbrev  0x0000000000002695      0x523 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SwiP_nortos.c.obj)
+ .debug_abbrev  0x0000000000002bb8       0xe0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(cpu.obj)
+ .debug_abbrev  0x0000000000002c98      0x12e /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(gpio.obj)
+ .debug_abbrev  0x0000000000002dc6      0x15d /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(interrupt.obj)
+ .debug_abbrev  0x0000000000002f23      0x158 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(pin.obj)
+ .debug_abbrev  0x000000000000307b      0x20f /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+ .debug_abbrev  0x000000000000328a       0xe4 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(systick.obj)
+ .debug_abbrev  0x000000000000336e       0x4c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(utils.obj)
+ .debug_abbrev  0x00000000000033ba      0x1b1 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(flash.obj)
+
+.debug_loc      0x0000000000000000     0x5ce5
+ .debug_loc     0x0000000000000000       0x57 ./gpiointerrupt.o
+ .debug_loc     0x0000000000000057       0x6f /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(GPIO.c.obj)
+ .debug_loc     0x00000000000000c6      0xaee /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(GPIOCC32XX.c.obj)
+ .debug_loc     0x0000000000000bb4     0x14c4 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX.c.obj)
+ .debug_loc     0x0000000000002078      0x428 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(List.c.obj)
+ .debug_loc     0x00000000000024a0       0x32 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(NoRTOS.c.obj)
+ .debug_loc     0x00000000000024d2      0xbae /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SemaphoreP_nortos.c.obj)
+ .debug_loc     0x0000000000003080     0x1011 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(ClockPSysTick_nortos.c.obj)
+ .debug_loc     0x0000000000004091      0x854 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(HwiPCC32XX_nortos.c.obj)
+ .debug_loc     0x00000000000048e5      0x400 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(PowerCC32XX_nortos.c.obj)
+ .debug_loc     0x0000000000004ce5       0x91 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(startup_cc32xx_gcc.c.obj)
+ .debug_loc     0x0000000000004d76      0xf6f /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SwiP_nortos.c.obj)
+
+.debug_aranges  0x0000000000000000      0xad0
+ .debug_aranges
+                0x0000000000000000       0x40 ./gpiointerrupt.o
+ .debug_aranges
+                0x0000000000000040       0x28 ./syscfg/ti_drivers_config.o
+ .debug_aranges
+                0x0000000000000068       0x20 ./main_nortos.o
+ .debug_aranges
+                0x0000000000000088       0x38 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(GPIO.c.obj)
+ .debug_aranges
+                0x00000000000000c0       0x78 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(GPIOCC32XX.c.obj)
+ .debug_aranges
+                0x0000000000000138       0xf0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX.c.obj)
+ .debug_aranges
+                0x0000000000000228       0x48 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(List.c.obj)
+ .debug_aranges
+                0x0000000000000270       0x30 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(NoRTOS.c.obj)
+ .debug_aranges
+                0x00000000000002a0       0x78 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SemaphoreP_nortos.c.obj)
+ .debug_aranges
+                0x0000000000000318       0xd0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(ClockPSysTick_nortos.c.obj)
+ .debug_aranges
+                0x00000000000003e8       0xb8 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(HwiPCC32XX_nortos.c.obj)
+ .debug_aranges
+                0x00000000000004a0       0x28 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(PowerCC32XX_nortos.c.obj)
+ .debug_aranges
+                0x00000000000004c8       0x50 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(startup_cc32xx_gcc.c.obj)
+ .debug_aranges
+                0x0000000000000518       0xa8 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SwiP_nortos.c.obj)
+ .debug_aranges
+                0x00000000000005c0       0x48 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(cpu.obj)
+ .debug_aranges
+                0x0000000000000608       0x90 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(gpio.obj)
+ .debug_aranges
+                0x0000000000000698       0x98 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(interrupt.obj)
+ .debug_aranges
+                0x0000000000000730       0xc0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(pin.obj)
+ .debug_aranges
+                0x00000000000007f0      0x1d8 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+ .debug_aranges
+                0x00000000000009c8       0x60 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(systick.obj)
+ .debug_aranges
+                0x0000000000000a28       0x20 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(utils.obj)
+ .debug_aranges
+                0x0000000000000a48       0x88 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(flash.obj)
+
+.debug_ranges   0x0000000000000000     0x11b8
+ .debug_ranges  0x0000000000000000       0x30 ./gpiointerrupt.o
+ .debug_ranges  0x0000000000000030       0x18 ./syscfg/ti_drivers_config.o
+ .debug_ranges  0x0000000000000048       0x10 ./main_nortos.o
+ .debug_ranges  0x0000000000000058       0x28 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(GPIO.c.obj)
+ .debug_ranges  0x0000000000000080       0x68 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(GPIOCC32XX.c.obj)
+ .debug_ranges  0x00000000000000e8      0x220 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX.c.obj)
+ .debug_ranges  0x0000000000000308       0x38 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(List.c.obj)
+ .debug_ranges  0x0000000000000340       0x20 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(NoRTOS.c.obj)
+ .debug_ranges  0x0000000000000360      0x280 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SemaphoreP_nortos.c.obj)
+ .debug_ranges  0x00000000000005e0      0x460 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(ClockPSysTick_nortos.c.obj)
+ .debug_ranges  0x0000000000000a40      0x100 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(HwiPCC32XX_nortos.c.obj)
+ .debug_ranges  0x0000000000000b40       0x18 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(PowerCC32XX_nortos.c.obj)
+ .debug_ranges  0x0000000000000b58       0x40 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(startup_cc32xx_gcc.c.obj)
+ .debug_ranges  0x0000000000000b98      0x178 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SwiP_nortos.c.obj)
+ .debug_ranges  0x0000000000000d10       0x38 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(cpu.obj)
+ .debug_ranges  0x0000000000000d48       0x80 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(gpio.obj)
+ .debug_ranges  0x0000000000000dc8       0x88 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(interrupt.obj)
+ .debug_ranges  0x0000000000000e50       0xb0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(pin.obj)
+ .debug_ranges  0x0000000000000f00      0x1e0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+ .debug_ranges  0x00000000000010e0       0x50 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(systick.obj)
+ .debug_ranges  0x0000000000001130       0x10 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(utils.obj)
+ .debug_ranges  0x0000000000001140       0x78 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(flash.obj)
+
+.debug_line     0x0000000000000000     0x9e7c
+ .debug_line    0x0000000000000000      0x3ed ./gpiointerrupt.o
+ .debug_line    0x00000000000003ed      0x3d7 ./syscfg/ti_drivers_config.o
+ .debug_line    0x00000000000007c4       0x77 ./main_nortos.o
+ .debug_line    0x000000000000083b      0x44f /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(GPIO.c.obj)
+ .debug_line    0x0000000000000c8a      0xd44 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(GPIOCC32XX.c.obj)
+ .debug_line    0x00000000000019ce     0x1887 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX.c.obj)
+ .debug_line    0x0000000000003255      0x5f8 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(List.c.obj)
+ .debug_line    0x000000000000384d      0x36d /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(NoRTOS.c.obj)
+ .debug_line    0x0000000000003bba      0xbfc /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SemaphoreP_nortos.c.obj)
+ .debug_line    0x00000000000047b6     0x11ae /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(ClockPSysTick_nortos.c.obj)
+ .debug_line    0x0000000000005964      0x950 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(HwiPCC32XX_nortos.c.obj)
+ .debug_line    0x00000000000062b4      0x8bf /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(PowerCC32XX_nortos.c.obj)
+ .debug_line    0x0000000000006b73      0x57f /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(startup_cc32xx_gcc.c.obj)
+ .debug_line    0x00000000000070f2      0xd94 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SwiP_nortos.c.obj)
+ .debug_line    0x0000000000007e86      0x113 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(cpu.obj)
+ .debug_line    0x0000000000007f99      0x402 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(gpio.obj)
+ .debug_line    0x000000000000839b      0x3fa /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(interrupt.obj)
+ .debug_line    0x0000000000008795      0x3ed /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(pin.obj)
+ .debug_line    0x0000000000008b82      0xd2b /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+ .debug_line    0x00000000000098ad      0x15d /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(systick.obj)
+ .debug_line    0x0000000000009a0a       0x8a /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(utils.obj)
+ .debug_line    0x0000000000009a94      0x3e8 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(flash.obj)
+
+.debug_str      0x0000000000000000     0x40ea
+ .debug_str     0x0000000000000000      0x459 ./gpiointerrupt.o
+                                        0x4b1 (size before relaxing)
+ .debug_str     0x0000000000000459      0x7ae ./syscfg/ti_drivers_config.o
+                                        0xba2 (size before relaxing)
+ .debug_str     0x0000000000000c07       0x11 ./main_nortos.o
+                                        0x1af (size before relaxing)
+ .debug_str     0x0000000000000c18      0x604 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(GPIO.c.obj)
+                                        0x76f (size before relaxing)
+ .debug_str     0x000000000000121c      0x3fc /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(GPIOCC32XX.c.obj)
+                                        0xaa4 (size before relaxing)
+ .debug_str     0x0000000000001618      0x956 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX.c.obj)
+                                       0x126c (size before relaxing)
+ .debug_str     0x0000000000001f6e       0xf5 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(List.c.obj)
+                                        0x76c (size before relaxing)
+ .debug_str     0x0000000000002063      0x1dc /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(NoRTOS.c.obj)
+                                        0x3e7 (size before relaxing)
+ .debug_str     0x000000000000223f      0x285 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SemaphoreP_nortos.c.obj)
+                                        0xa16 (size before relaxing)
+ .debug_str     0x00000000000024c4      0x350 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(ClockPSysTick_nortos.c.obj)
+                                        0xb73 (size before relaxing)
+ .debug_str     0x0000000000002814      0x409 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(HwiPCC32XX_nortos.c.obj)
+                                        0xb49 (size before relaxing)
+ .debug_str     0x0000000000002c1d      0x200 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(PowerCC32XX_nortos.c.obj)
+                                        0x7c1 (size before relaxing)
+ .debug_str     0x0000000000002e1d      0x1db /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(startup_cc32xx_gcc.c.obj)
+                                        0x7fe (size before relaxing)
+ .debug_str     0x0000000000002ff8      0x37a /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SwiP_nortos.c.obj)
+                                        0xac2 (size before relaxing)
+ .debug_str     0x0000000000003372      0x19f /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(cpu.obj)
+                                        0x1bc (size before relaxing)
+ .debug_str     0x0000000000003511      0x140 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(gpio.obj)
+                                        0x2ec (size before relaxing)
+ .debug_str     0x0000000000003651      0x17f /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(interrupt.obj)
+                                        0x34d (size before relaxing)
+ .debug_str     0x00000000000037d0      0x153 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(pin.obj)
+                                        0x32a (size before relaxing)
+ .debug_str     0x0000000000003923      0x4f9 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+                                        0x893 (size before relaxing)
+ .debug_str     0x0000000000003e1c       0xa5 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(systick.obj)
+                                        0x229 (size before relaxing)
+ .debug_str     0x0000000000003ec1       0x65 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(utils.obj)
+                                        0x17e (size before relaxing)
+ .debug_str     0x0000000000003f26      0x1c4 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(flash.obj)
+                                        0x330 (size before relaxing)
+
+.comment        0x0000000000000000       0x79
+ .comment       0x0000000000000000       0x79 ./gpiointerrupt.o
+                                         0x7a (size before relaxing)
+ .comment       0x0000000000000079       0x7a ./syscfg/ti_drivers_config.o
+ .comment       0x0000000000000079       0x7a ./main_nortos.o
+ .comment       0x0000000000000079       0x7a /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(GPIO.c.obj)
+ .comment       0x0000000000000079       0x7a /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(GPIOCC32XX.c.obj)
+ .comment       0x0000000000000079       0x7a /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX.c.obj)
+ .comment       0x0000000000000079       0x7a /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(List.c.obj)
+ .comment       0x0000000000000079       0x7a /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(NoRTOS.c.obj)
+ .comment       0x0000000000000079       0x7a /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SemaphoreP_nortos.c.obj)
+ .comment       0x0000000000000079       0x7a /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(ClockPSysTick_nortos.c.obj)
+ .comment       0x0000000000000079       0x7a /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(HwiPCC32XX_nortos.c.obj)
+ .comment       0x0000000000000079       0x7a /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(PowerCC32XX_nortos.c.obj)
+ .comment       0x0000000000000079       0x7a /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(startup_cc32xx_gcc.c.obj)
+ .comment       0x0000000000000079       0x7a /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SwiP_nortos.c.obj)
+ .comment       0x0000000000000079       0x7a /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(cpu.obj)
+ .comment       0x0000000000000079       0x7a /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(gpio.obj)
+ .comment       0x0000000000000079       0x7a /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(interrupt.obj)
+ .comment       0x0000000000000079       0x7a /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(pin.obj)
+ .comment       0x0000000000000079       0x7a /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+ .comment       0x0000000000000079       0x7a /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(systick.obj)
+ .comment       0x0000000000000079       0x7a /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(utils.obj)
+ .comment       0x0000000000000079       0x7a /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(flash.obj)
+
+.ARM.attributes
+                0x0000000000000000       0x2c
+ .ARM.attributes
+                0x0000000000000000       0x2e ./gpiointerrupt.o
+ .ARM.attributes
+                0x000000000000002e       0x2e ./syscfg/ti_drivers_config.o
+ .ARM.attributes
+                0x000000000000005c       0x2e ./main_nortos.o
+ .ARM.attributes
+                0x000000000000008a       0x2e /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(GPIO.c.obj)
+ .ARM.attributes
+                0x00000000000000b8       0x2e /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(GPIOCC32XX.c.obj)
+ .ARM.attributes
+                0x00000000000000e6       0x2e /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX.c.obj)
+ .ARM.attributes
+                0x0000000000000114       0x1c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX_gcc.asm.obj)
+ .ARM.attributes
+                0x0000000000000130       0x2e /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(List.c.obj)
+ .ARM.attributes
+                0x000000000000015e       0x2e /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(NoRTOS.c.obj)
+ .ARM.attributes
+                0x000000000000018c       0x2e /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SemaphoreP_nortos.c.obj)
+ .ARM.attributes
+                0x00000000000001ba       0x2e /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(ClockPSysTick_nortos.c.obj)
+ .ARM.attributes
+                0x00000000000001e8       0x2e /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(HwiPCC32XX_nortos.c.obj)
+ .ARM.attributes
+                0x0000000000000216       0x2e /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(PowerCC32XX_nortos.c.obj)
+ .ARM.attributes
+                0x0000000000000244       0x2e /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(startup_cc32xx_gcc.c.obj)
+ .ARM.attributes
+                0x0000000000000272       0x2e /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SwiP_nortos.c.obj)
+ .ARM.attributes
+                0x00000000000002a0       0x2e /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(cpu.obj)
+ .ARM.attributes
+                0x00000000000002ce       0x2e /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(gpio.obj)
+ .ARM.attributes
+                0x00000000000002fc       0x2e /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(interrupt.obj)
+ .ARM.attributes
+                0x000000000000032a       0x2e /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(pin.obj)
+ .ARM.attributes
+                0x0000000000000358       0x2e /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+ .ARM.attributes
+                0x0000000000000386       0x2e /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(systick.obj)
+ .ARM.attributes
+                0x00000000000003b4       0x2e /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(utils.obj)
+ .ARM.attributes
+                0x00000000000003e2       0x2e /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(flash.obj)
+ .ARM.attributes
+                0x0000000000000410       0x1e /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x000000000000042e       0x2e /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x000000000000045c       0x1e /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x000000000000047a       0x2e /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-malloc.o)
+ .ARM.attributes
+                0x00000000000004a8       0x2e /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x00000000000004d6       0x2e /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000000000000504       0x2e /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-nano-freer.o)
+ .ARM.attributes
+                0x0000000000000532       0x2e /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-nano-mallocr.o)
+ .ARM.attributes
+                0x0000000000000560       0x2e /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x000000000000058e       0x2e /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000000005bc       0x2e /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x00000000000005ea       0x2e /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-reent.o)
+ .ARM.attributes
+                0x0000000000000618       0x2e /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-lock.o)
+ .ARM.attributes
+                0x0000000000000646       0x2e /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libnosys.a(sbrk.o)
+
+.debug_frame    0x0000000000000000     0x26fc
+ .debug_frame   0x0000000000000000       0x78 ./gpiointerrupt.o
+ .debug_frame   0x0000000000000078       0x38 ./syscfg/ti_drivers_config.o
+ .debug_frame   0x00000000000000b0       0x28 ./main_nortos.o
+ .debug_frame   0x00000000000000d8       0x50 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(GPIO.c.obj)
+ .debug_frame   0x0000000000000128      0x1d0 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(GPIOCC32XX.c.obj)
+ .debug_frame   0x00000000000002f8      0x2fc /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(PowerCC32XX.c.obj)
+ .debug_frame   0x00000000000005f4       0xf8 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/drivers/lib/gcc/m4/drivers_cc32xx.a(List.c.obj)
+ .debug_frame   0x00000000000006ec       0x4c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(NoRTOS.c.obj)
+ .debug_frame   0x0000000000000738      0x150 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SemaphoreP_nortos.c.obj)
+ .debug_frame   0x0000000000000888      0x294 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(ClockPSysTick_nortos.c.obj)
+ .debug_frame   0x0000000000000b1c      0x1c8 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(HwiPCC32XX_nortos.c.obj)
+ .debug_frame   0x0000000000000ce4       0x58 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(PowerCC32XX_nortos.c.obj)
+ .debug_frame   0x0000000000000d3c       0x9c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(startup_cc32xx_gcc.c.obj)
+ .debug_frame   0x0000000000000dd8      0x274 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/kernel/nortos/lib/gcc/m4/nortos_cc32xx.a(SwiP_nortos.c.obj)
+ .debug_frame   0x000000000000104c       0x70 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(cpu.obj)
+ .debug_frame   0x00000000000010bc      0x260 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(gpio.obj)
+ .debug_frame   0x000000000000131c      0x258 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(interrupt.obj)
+ .debug_frame   0x0000000000001574      0x32c /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(pin.obj)
+ .debug_frame   0x00000000000018a0      0x828 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(prcm.obj)
+ .debug_frame   0x00000000000020c8      0x138 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(systick.obj)
+ .debug_frame   0x0000000000002200       0x20 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(utils.obj)
+ .debug_frame   0x0000000000002220      0x214 /Users/kendall.p.w/ti/simplelink_cc32xx_sdk_7_10_00_13/source/ti/devices/cc32xx/driverlib/gcc/Release/driverlib.a(flash.obj)
+ .debug_frame   0x0000000000002434       0x2c /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x0000000000002460       0x34 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x0000000000002494       0x30 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-malloc.o)
+ .debug_frame   0x00000000000024c4       0x28 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x00000000000024ec       0x20 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x000000000000250c       0x38 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-nano-freer.o)
+ .debug_frame   0x0000000000002544       0x30 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x0000000000002574       0x2c /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-sbrkr.o)
+ .debug_frame   0x00000000000025a0       0x30 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-mlock.o)
+ .debug_frame   0x00000000000025d0       0x5c /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-reent.o)
+ .debug_frame   0x000000000000262c       0xb0 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(lib_a-lock.o)
+ .debug_frame   0x00000000000026dc       0x20 /Applications/ti/ccs1271/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/lib/thumb/v7e-m/nofp/libnosys.a(sbrk.o)
